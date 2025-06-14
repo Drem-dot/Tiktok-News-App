@@ -1,5 +1,4 @@
 
-```markdown
 # 🚀 NewsTok: The Intelligent News Feed
 
 NewsTok is a native Android news reader application designed to revolutionize how you consume news. It features a modern, TikTok-style vertical feed and leverages Google's Gemini AI to provide concise, AI-generated summaries and a personalized content stream.
