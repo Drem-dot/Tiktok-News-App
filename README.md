@@ -1,10 +1,4 @@
 
----
-
-### **Phiên bản 3: Chi Tiết & Chuyên Nghiệp (README.md cao cấp)**
-
-Đây là phiên bản đầy đủ nhất, rất phù hợp nếu bạn muốn dùng dự án này trong portfolio của mình. Nó bao gồm cả các phần của phiên bản 2.
-
 ```markdown
 # 🚀 NewsTok: The Intelligent News Feed
 
