@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="c_b_i_vi_t_g_c">ĐỌC BÀI VIẾT GỐC</string>
+    <string name="article_thumbnail">Article Thumbnail</string>
+    <string name="like_button">Like</string>
+    <string name="save_button">Save</string>
+    <string name="b_i_vi_t_l_u">Bài viết đã lưu</string>
+</resources>
